@@ -96,7 +96,7 @@ Projects that involve dealing with encryption/decryption or in general computer 
 ### Simulations, Games and Game AI  
 All work and no play makes jack a dull boy! Games are a must to enjoy and learn many of the concepts of programming including OOPS.  
   - [x] [Pong](#pong)
-  - [ ] [Pong AI](#pong-ai)
+  - [x] [Pong AI](#pong-ai)
   - [ ] [Risk](#risk)
   - [ ] [Chess](#chess)
   - [ ] [Snake](#snake)
