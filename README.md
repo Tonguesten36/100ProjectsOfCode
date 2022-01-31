@@ -90,7 +90,7 @@ Projects that provide a deeper insight into the inner workings of many CS relate
 Projects that involve dealing with encryption/decryption or in general computer security.  
   - [ ] [Codec Software](#codec-software)
   - [ ] [Password Manager](#password-manager)
-  - [ ] [Password Generator](#password-generator)
+  - [x] [Password Generator](#password-generator)
   - [ ] [Folder Encrypter/Locker](#folder-encrypter)
   - [ ] [Password Strength Checker](#password-strength-checker)
 ### Simulations, Games and Game AI  
